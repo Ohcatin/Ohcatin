@@ -1,11 +1,12 @@
 # 💫 About Me:
-¡Hola! Soy Catalina Ordenes.<br>Me encuentro estudiando desarrollo web en Laboratoria
+¡Hola! Soy Catalina Ordenes.<br>Estoy estudiando desarrollo web en Laboratoria, 
 ```js
 
 const Ohcatin = {
   code: ['Javascript', 'HTML', 'CSS'],
   tools: ['Node', 'Figma', 'Trello', 'Jest'],
   passions: ['web development'],
+  funFact: ["Doglover", "I love nature and birds"],
 };
 ``` 
 
