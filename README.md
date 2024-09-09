@@ -3,7 +3,7 @@
 ```js
 
 const Ohcatin = {
-  code: ['Javascript', 'HTML', 'CSS'],
+  code: ['Javascript', 'HTML', 'CSS', 'C#'],
   tools: ['Node', 'Figma', 'Trello', 'Jest'],
   passions: ['web development'],
   funFact: ["Doglover", "I love nature and birds"],
