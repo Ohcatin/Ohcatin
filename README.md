@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! Soy Catalina Ordenes.<br>Estoy estudiando desarrollo web en Laboratoria, 
+¡Hola! Soy Catalina Ordenes.<br>Estudié desarrollo web en Laboratoria, y actualmente me encuentro haciendo un curso con Alura y Oracle :)
 ```js
 
 const Ohcatin = {
